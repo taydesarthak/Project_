@@ -6,5 +6,7 @@ public class ArrayQue {
         for(int ele: arr){
             System.out.print(ele + " ");
         }
+        System.out.println(" ");
+        System.out.println(arr[2]);
     }
 }
